@@ -1,4 +1,4 @@
-### Knight Moves
+# Knight Moves
 
 ## Goal
 Find the shortest route a knight would take on a chess board.
